@@ -1,7 +1,7 @@
-# Natty or Not - Carros Icones dos anos 80 e 90 ;)
+# Natty or Not - Carros Ícones dos anos 80 e 90 ;)
 
 ## 📒 Descrição
-Trata-se de um estudo com auxilio de IA para a criação de uma página web que lista carros que marcaram as décadas de 80 e 90 no mundo.
+Trata-se de um estudo com auxílio de IA para a criação de uma página web que lista carros que marcaram as décadas de 80 e 90 no mundo.
 
 ## 🤖 Tecnologias Utilizadas
 Visual Studio Code para codificação (HTML, CSS e JavaScript);
@@ -21,4 +21,5 @@ Além da criação mais comum vista em redes sociais, as IAs se tornam assistent
 O conteúdo que hoje fura a bolha e gera debates sobre a substituição da mão de obra humana por máquinas, na verdade é resultado de outra revolução insutrial, porém mais silenciosa e mais difundida para além das fábricas e grandes empresas. As inteligências artificiais, são o novo carvão e petróleo que mudaram a industria em decadas passadas.
 
 Portanto, o dominio dessa ferramenta é imprescindivel para os novos profissionais. O conhecimento e uso refinado das IAs para automações de processos destaca os profissionais que estão inseridos neste novo modelo do mercado de trabalho.
+
 
