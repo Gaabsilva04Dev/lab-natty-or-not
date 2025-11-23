@@ -16,7 +16,8 @@ elencando 10 veículos marcantes dos anos 80 e 90 utilizando ferramentas de IA p
 Como resultado, temos uma página web extremamente simples, porém responsiva e funcional que mostra fotos dos carros listados e uma breve descrição sobre cada veículo.
 
 ## 💭 Reflexão (Opcional)
-Num mundo em que a utilização das IAs não é mais uma promessa ou expeculação de obras de ficção ciêntifica da cultura pop, porém uma realidade. O primeiro desafio mais evidente é a dificuldade que grande parte das pessoas ainda têm de conceber de que as inteligências artificiais são ferramentas de multiuso.
+Em um mundo em que a utilização das IAs não é mais uma promessa ou expeculação de obras de ficção ciêntifica da cultura pop, porém uma realidade. O primeiro desafio mais evidente é a dificuldade que grande parte das pessoas ainda têm de conceber de que as inteligências artificiais são ferramentas de multiuso.
 Além da criação mais comum vista em redes sociais, as IAs se tornam assistentes extremamente úteis para grandes tarefas do mundo corporativo, a exemplo o Bedrock da Amazon.
 O conteúdo que hoje fura a bolha e gera debates sobre a substituição da mão de obra humana por máquinas, na verdade é resultado de outra revolução insutrial, porém mais silenciosa e mais difundida para além das fábricas e grandes empresas. As inteligências artificiais, são o novo carvão e petróleo que mudaram a industria em decadas passadas.
+
 Portanto, o dominio dessa ferramenta é imprescindivel para os novos profissionais. O conhecimento e uso refinado das IAs para automações de processos destaca os profissionais que estão inseridos neste novo modelo do mercado de trabalho.
